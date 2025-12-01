@@ -5,7 +5,7 @@
 ## Project Overview
 This project performs an extensive Exploratory Data Analysis (EDA) on the Indian Premier League (IPL) dataset spanning 12 seasons (2008–2020). Cricket is a game of numbers, and by analyzing historical match data, this project aims to uncover patterns that contribute to a team's success. The analysis focuses on Team Performance, Toss Decisions, Venue Advantages, and Star Player Contributions.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The primary goal of this analysis was to uncover the factors that drive success in the IPL. Based on historical data (2008-2020), I focused on the following key objectives:
 
@@ -44,7 +44,7 @@ The analysis is based on two primary datasets:
   - 1.Replace the dobule name
   - 2.Standardizing Team Names
 
-## 📊 Key Findings & Analysis
+##  Key Findings & Analysis
 
 ### 1. 🏆 Team Performance & Dominance
 * **The Big Two:** **Chennai Super Kings (CSK)** and **Mumbai Indians (MI)** are the undisputed kings of the IPL, tied with **5 titles each**.
@@ -74,7 +74,7 @@ This analysis of IPL data (2008–2023) provides a comprehensive view of the fac
 3.  **The Death Over Impact:** The **Over-by-Over analysis** confirms that the match outcome is often decided in the final 5 overs (16–20), where run rates spike and wicket probabilities peak. Teams with specialized "Finishers" and "Death Bowlers" have a distinct edge.
 4.  **Risk Management:** With over **60% of dismissals being "Caught,"** the data suggests that batsmen who can manipulate the field rather than just aiming for the boundary have higher consistency (e.g., Virat Kohli’s run accumulation).
 
-### 🔮 Future Scope
+### Future Scope
 To extend this analysis, future work could involve:
 * **Predictive Modeling:** Building a Machine Learning model (Random Forest/Logistic Regression) to predict the winner of a match based on Toss, Venue, and Team Strength.
 * **Player Valuation:** Analyzing player performance vs. their auction price to determine the "Best Value for Money" players.
