@@ -1,5 +1,7 @@
 # 🏏 IPL Data Analysis (2008-2023): Uncovering Match-Winning Trends 
 
+![IPL LOGO](https://github.com/Mru017/Indian-Premium-League-IPL-/blob/main/IPLLogo.webp)
+
 [Indian-Premium-League-IPL](https://github.com/Mru017/Indian-Premium-League-IPL-/blob/main/IPL.ipynb)
 
 ## Project Overview
